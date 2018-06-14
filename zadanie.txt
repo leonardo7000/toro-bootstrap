@@ -1,0 +1,19 @@
+Ponizej znajduje sie Twoje zadanie. Na jego zrobienie czekamy do kolejnego poniedzialku, 18.06.2018 do godziny 12:00.
+
+Zadanie:
+ 
+Przygotowanie szablonu HTML zgodnie z przeslanym projektem graficznym. Kod powinien byc w standardach W3C z wykorzystaniem HTML/CSS. Mozliwe jest wykorzystanie rozwiazan typu Bootstrap do przyspieszenia prac nad responsywnoscia
+
+Minimalne wymagania:
+- HTML5
+- CSS3
+- RWD
+- Walidacja Formularza
+
+Dodatkowe plusy za:
+- Wykorzystanie Bootstrap 3/4
+- Wykorzystanie SCSS/SASS,
+- Wykorzystanie Gulp/Bower/NPM,
+- Wykorzystanie repozytorium na GITHUB/GITLAB/BITBUCKET (Wybor dowolny),
+- Walidacja formularza w czasie rzeczywistym,
+- Poprawna wysylka formularza kontaktowego przy pomocy PHP
