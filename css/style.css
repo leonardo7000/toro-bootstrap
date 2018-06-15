@@ -390,6 +390,7 @@ body {
     border: 0px;
     border-radius: 5px;
     background-color: #eaeef1;
+    padding-left: 10px;
 }
 
 .block5-textarea {
