@@ -17,3 +17,4 @@ Dodatkowe plusy za:
 - Wykorzystanie repozytorium na GITHUB/GITLAB/BITBUCKET (Wybor dowolny),
 - Walidacja formularza w czasie rzeczywistym,
 - Poprawna wysylka formularza kontaktowego przy pomocy PHP
+
