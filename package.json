@@ -1,0 +1,23 @@
+{
+  "name": "toro",
+  "version": "1.0.0",
+  "description": "toro",
+  "main": "index.js",
+  "dependencies": {
+    "materialize-css": "^0.100.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardo7000/toro-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardo7000/toro-bootstrap/issues"
+  },
+  "homepage": "https://github.com/leonardo7000/toro-bootstrap#readme"
+}
