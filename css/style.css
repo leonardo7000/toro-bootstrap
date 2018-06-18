@@ -336,9 +336,9 @@ body {
 }
 
 .block3 {
-    height: 900px;
+    /*height: 900px;*/
     background-color: #3a454d;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
     display: flex;
     flex-direction: column;
 }
@@ -346,19 +346,27 @@ body {
 .block3-foto {
     display: flex;
     justify-content: space-between;
-    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.col-foto {
+    margin: 0 auto 20px;
+
 }
 
 .block3-foto-1 {
     display: flex;
     flex-direction: row;
-    margin-top: 65px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 30px auto 20px;
 }
-.block3-foto-2 {
-    display: flex;
-    flex-direction: row;
-    margin-top:30px;
-}
+/*.block3-foto-2 {*/
+    /*display: flex;*/
+    /*flex-direction: row;*/
+    /*margin-top:30px;*/
+/*}*/
 
 .btn-block3 {
     height: 45px;
@@ -368,7 +376,7 @@ body {
     color: white;
     background-color: #3a454d;
     text-transform: uppercase;
-    margin: 60px auto 0;
+    margin: 20px auto 50px;
 
 }
 
